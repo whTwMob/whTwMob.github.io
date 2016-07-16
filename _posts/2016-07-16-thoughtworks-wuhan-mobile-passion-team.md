@@ -1,7 +1,7 @@
 ---
 layout: post
-published: true
 title: ThoughtWorks Wuhan Mobile Passion Team
+subtitle: 小组成立
 ---
   经过2016年下半年两次capacity building各owner的聚集会议，加上一次全office Developer community的下半年计划调查问卷，最终Mobile兴趣小组终于成型。  
   经过报名，小组成员13人。于7月11日（周一）开始进入运作阶段。

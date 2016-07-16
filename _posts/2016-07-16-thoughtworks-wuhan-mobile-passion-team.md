@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ThoughtWorks Wuhan Mobile Passion Team
-subtitle: 小组成立
+title: 小组成立
+subtitle: ThoughtWorks Wuhan Mobile Passion Team
 ---
 * 经过2016年下半年两次capacity building各owner的聚集会议，加上一次全office Developer community的下半年计划调查问卷，最终Mobile兴趣小组终于成型。 
 

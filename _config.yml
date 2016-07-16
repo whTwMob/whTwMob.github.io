@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://wayde191.github.io"
+url: "http://whTwMob.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -26,7 +26,7 @@ navbar-links:
   PROJECTS: "aboutme"
   ABOUT ME / CONTACT: "aboutme"
   Resources:
-    - GitHub Pages: "https://github.com/wayde191"
+    - GitHub Pages: "https://github.com/whTwMob"
   Author's home: "http://www.ihakula.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -38,8 +38,8 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Wayde Sun
-  email: "wayde.sun@gmail.com"
+  name: whTwMob
+  email: "wh.tw.mob@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali

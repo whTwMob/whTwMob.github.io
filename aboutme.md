@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Wuhan ThoughtWorks Mobile Passion Team
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm from Wuhan ThoughtWorks Mobile Passion Team.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+我们是一群致力于建设Mobile技术能力的开发者。
+虽然我们中一部分人的主语言可能是Java、Ruby、JS等等，但我们有同一个目标，在近期内及将来不断地发展和完善自身的Mobile能力，成为Mobile技术社区中的一员。
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+你可以来这里了解我们，并与我们交流。

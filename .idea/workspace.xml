@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba42cdaa-b694-419a-bb59-38991708b2fb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/XIEWEI.png" afterPath="$PROJECT_DIR$/img/XIEWEI.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-19-react-native-session-1.md" afterPath="$PROJECT_DIR$/_posts/2016-07-19-react-native-session-1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016-07-21-react-native-session-1/index.html" afterPath="$PROJECT_DIR$/_site/2016-07-21-react-native-session-1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="whTwMob.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +32,7 @@
           </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="4.48">
-              <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+              <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -435,7 +437,7 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="4.48">
-          <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+          <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
           <folding />
         </state>
       </provider>

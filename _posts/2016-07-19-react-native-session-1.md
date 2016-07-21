@@ -23,7 +23,7 @@ date: '2016-07-21'
 
 一上来就喜欢赤诚相见，庖丁解牛
 
-![React_Native_Workshop_Poster]({{site.baseurl}}/img/XIEWEI.PNG)
+![React_Native_Workshop_Poster]({{site.baseurl}}/img/XIEWEI.png)
 
 > 附：Hybrid App是指介于web-app、native-app这两者之间的app,它虽然看上去是一个Native App，但只有一个UI WebView，里面访问的是一个Web App，比如街旁网最开始的应用就是包了个客户端的壳，其实里面是HTML5的网页，后来才推出真正的原生应用。再彻底一点的，如掌上百度和淘宝客户端Android版，走的也是Hybrid App的路线，不过掌上百度里面封装的不是WebView，而是自己的浏览内核，所以体验上更像客户端，更高效。
 

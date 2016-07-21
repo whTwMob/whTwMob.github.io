@@ -23,6 +23,8 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
+  Sessions:
+      - ReactNative session1: "2016-07-21-react-native-session-1"
   PROJECTS: "https://github.com/whTwMob"
   ABOUT ME / CONTACT: "aboutme"
 
@@ -68,7 +70,7 @@ google_analytics: "UA-80518283-1"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Asia/Wuhan"
+timezone: "Asia/Chongqing"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

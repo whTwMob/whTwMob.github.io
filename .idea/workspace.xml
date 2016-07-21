@@ -2,179 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba42cdaa-b694-419a-bb59-38991708b2fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-07-19-react-native-session-1.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2015-01-19-soccer/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2015-01-27-dear-diary/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2015-02-13-hamlet-monologue/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2015-02-20-test-markdown/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2015-02-26-flake-it-till-you-make-it/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2016-07-08-tea-pu-er/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Aroma Cup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Aroma Cup_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Fair Cup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Fair Cup_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Clip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Clip_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Needle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Needle_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Pot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Pot_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Spoon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Spoon_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Strainers.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Strainers_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Tray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Tray_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Wash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea Wash_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea_Needle_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea_Spoon_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tea_Tray_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/The Tea.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/The Tea_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tureen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tureen_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/Tureen_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/about.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/about2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/aboutIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/aboutheader.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/aboutheader2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/aroma_Cup_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/chadi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/chatang.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/circle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/circle_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/cup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/cup_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/cup_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/dahongpao_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/dahongpao_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/dahongpao_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/dahongpao_info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/dahongpao_info2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/dahongpao_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/danchongcha_info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/danchongcha_info2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/dancong_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/dancongcha_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/dancongcha_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/dancongcha_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/drink.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/fair_cup_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/headLogo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/header2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/history.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/history2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/history3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/history_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_history.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_history2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_history3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_history_content.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_maketea.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_maketea2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_maketea3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_maketea_content.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_model.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_rice.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_rice2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_rice3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_rice_content.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_taste.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_taste2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_taste3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_taste_content.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_teaset.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_teaset2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_teaset3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/home_teaset_content.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/hongcha_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/hongcha_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/hongcha_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/hongcha_info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/hongcha_info2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/hongcha_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/lanuch1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/lanuch2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/leaf_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/leaf_header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/leaf_header2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/leafdetailbg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/look.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/lvcha_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/lvcha_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/lvcha_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/lvcha_info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/lvcha_info2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/lvcha_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/main_Tea.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/main_Tearice.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/main_background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/main_history.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/main_share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/main_taste.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/main_teaset.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/makeTea.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/makeTea2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/menu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/menu2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/puer_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/puer_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/puer_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/puer_info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/puer_info2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/puer_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/rating.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/shareIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/share_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/smell.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/taste_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/taste_text1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/taste_text2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/taste_text3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/tea pad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/tea pad_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/tea_clip_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/tea_pad_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/tea_pot_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/tea_strainers_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/tea_wash_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/the_tea_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/tieguanyin_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/tieguanyin_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/tieguanyin_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/tieguanyin_info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/tieguanyin_info2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/tiguanyin_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/wechat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/wechat_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/weibo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/weibo_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/wulong_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/wulong_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/wulong_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/wulong_info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/wulong_info2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/wulong_name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/史.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/品.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/器.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/泡.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/tea/茶.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page2/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/img/avatar-icon.png" afterPath="$PROJECT_DIR$/_site/img/avatar-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/aboutme/index.html" afterPath="$PROJECT_DIR$/_site/aboutme/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="whTwMob.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -201,8 +29,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0781893">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.54521275">
+              <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -214,7 +42,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8965516">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="7" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
@@ -270,8 +98,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -300,39 +128,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="whTwMob.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="whTwMob.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="whTwMob.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="whTwMob.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -478,12 +274,14 @@
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32880098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.80593324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -491,11 +289,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -506,11 +302,32 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-07-19-react-native-session-1.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-07-15-thoughtworks-wuhan-mobile-passion-team.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="9" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -548,7 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -567,7 +383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40970874">
           <caret line="26" column="65" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -576,7 +391,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8965516">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
@@ -587,8 +402,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0781893">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.54521275">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
           <folding />
         </state>
       </provider>

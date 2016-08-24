@@ -8,7 +8,7 @@ date: '2016-08-21'
 
 谢老板React native系列讲座的第二次session，介绍了管理应用状态的两个概念：Flux和Redux。React native 是以React的方式抽象UI组件，只不过前者抽象原生App组件，后者抽象DOM元素。所以使用 React native 构建App，也需要一个状态管理工具管理数据流，以根据不同的状态更新UI。
 
-####Flux
+#### Flux
 Flux 是 Facebook 使用的一套前端应用的架构模式。
 React或React native是MVC(Model，View，Controller里面View的部分，那么Flux就相当于添加 Model 和 Controller 的部分。
 
@@ -25,7 +25,7 @@ React或React native是MVC(Model，View，Controller里面View的部分，那么
 
 所有的状态都由 Store 来维护，通过 Action 传递数据，构成了如上所述的单向数据流循环.
 
-####Redux
+#### Redux
 Redux 是状态容器，提供可预测化的状态管理，其实也是 Flux 里面“单向数据流”的思想，只是它充分利用函数式的特性,让整个实现使用起来也更简单。
 
 ![Rudux_Flow]({{site.baseurl}}/img/rudux.png)

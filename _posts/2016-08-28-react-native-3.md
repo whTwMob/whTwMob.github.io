@@ -18,9 +18,9 @@ npm install babel webpack webpack-dev-server babel-preset-es2015 babel-preset-re
 ~~~
 这里一共安装了三类包，react\webpack\babel。  
 
-**react**就不用说了。
-**webpack**是前端的一种代码模块化工具，默认支持JS模块化，其他前端代码或者静态资源如CSS，则需要安装相应loader，如css-loader style-loader。
-**babel**是JS的语法转化器，可以让编程人员选择最新的JS语法，而不用等待到浏览器支持时才开始使用。并且提供了JSX\React的相应支持。
+**react**就不用说了。  
+**webpack**是前端的一种代码模块化工具，默认支持JS模块化，其他前端代码或者静态资源如CSS，则需要安装相应loader，如css-loader style-loader。  
+**babel**是JS的语法转化器，可以让编程人员选择最新的JS语法，而不用等待到浏览器支持时才开始使用。并且提供了JSX\React的相应支持。  
 其中--save的选项，是将项目中的包依赖自动保存入项目目录下的package.json文件。
 
 第一个实践而成的Demo，见下图：

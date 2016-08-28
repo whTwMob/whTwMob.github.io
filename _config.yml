@@ -25,6 +25,8 @@ description:
 navbar-links:
   Sessions:
       - ReactNative session1: "2016-07-21-react-native-session-1"
+      - ReactNative session2: "2016-08-21-react-native-session-2"
+      - ReactNative session3: "2016-08-28-react-native-session-3"
   PROJECTS: "https://github.com/whTwMob"
   ABOUT ME / CONTACT: "aboutme"
 

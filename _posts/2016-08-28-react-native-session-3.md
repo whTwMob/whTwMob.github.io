@@ -72,7 +72,7 @@ const createStore = (reducer) => {
 ~~~
 
 ## 相关链接：
-[课程代码github](https://github.com/wesleyxie/lesson1)  
-[webpack tutorials](http://webpack.github.io/docs/tutorials/getting-started/)  
-[webpack官方文档](http://webpack.github.io/docs/what-is-webpack.html)  
-[Babel官网](http://babeljs.io/)  
+* 课程代码github [https://github.com/wesleyxie/lesson1](https://github.com/wesleyxie/lesson1)  
+* webpack tutorials [http://webpack.github.io/docs/tutorials/getting-started/](http://webpack.github.io/docs/tutorials/getting-started/)  
+* webpack官方文档 [http://webpack.github.io/docs/what-is-webpack.html](http://webpack.github.io/docs/what-is-webpack.html)  
+* Babel官网 [http://babeljs.io/](http://babeljs.io/)

@@ -5,8 +5,8 @@ title: REACT NATIVE 系列第三讲
 subtitle: 从React开始
 ---
 
-在阔别上次第二讲几周之后，谢老板终于给我们带来了React Native系列第三弹。
-这次谢老板改变了课程形式，强调workshop鼓励全程动手操作的模式，领着大家体验了一把React+Reduce从init project到run test的整个操作过程。
+在阔别上次第二讲几周之后，谢老板终于给我们带来了React Native系列第三弹。  
+这次谢老板改变了课程形式，强调workshop鼓励全程动手操作的模式，领着大家体验了一把React + Reduce从init project到run test的整个操作过程。
 
 ### 第一节，从创建项目目录、安装JS包开始
 ~~~
@@ -19,11 +19,8 @@ npm install babel webpack webpack-dev-server babel-preset-es2015 babel-preset-re
 这里一共安装了三类包，react\webpack\babel。  
 
 **react**就不用说了。
-
 **webpack**是前端的一种代码模块化工具，默认支持JS模块化，其他前端代码或者静态资源如CSS，则需要安装相应loader，如css-loader style-loader。
-
 **babel**是JS的语法转化器，可以让编程人员选择最新的JS语法，而不用等待到浏览器支持时才开始使用。并且提供了JSX\React的相应支持。
-
 其中--save的选项，是将项目中的包依赖自动保存入项目目录下的package.json文件。
 
 第一个实践而成的Demo，见下图：
@@ -35,5 +32,12 @@ npm install babel webpack webpack-dev-server babel-preset-es2015 babel-preset-re
 ~~~
 npm install babel-core babel-preset-es2015 babel-preset-react babel-preset-stage-2 expect mocha react-addons-test-utils --save-dev
 ~~~
-这里用到的测试框架是**mocha**,由于mocha自身不带断言库，因此引入断言库是**expect**。
+这里用到的测试框架是**mocha**,由于mocha自身不带断言库，因此引入断言库是**expect**。  
 实现一个最简单的recuder用来将数字+1或者-1，并且带有对应的单元测试。
+![React_Native_3_2.png]({{site.baseurl}}/img/React_Native_3_2.png)
+运行测试后输出：
+![React_Native_3_3.png]({{site.baseurl}}/img/React_Native_3_3.png)
+
+接着，开始使用Redux的方式来操作React的state，见[github中的counter.js文件](https://github.com/wesleyxie/lesson1/blob/master/counter.js)
+完成后的效果如下：
+

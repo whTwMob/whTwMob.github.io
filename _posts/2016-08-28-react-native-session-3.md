@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: REACT NATIVE 系列第三讲
-subtitle: 从React开始 - session three
+subtitle: 从React开始实操 - session three
 ---
 
 在阔别上次第二讲几周之后，谢老板终于给我们带来了React Native系列第三弹。  
@@ -35,10 +35,12 @@ npm install babel-core babel-preset-es2015 babel-preset-react babel-preset-stage
 这里用到的测试框架是**mocha**,由于mocha自身不带断言库，因此引入断言库是**expect**。  
 实现一个最简单的recuder用来将数字+1或者-1，并且带有对应的单元测试。
 ![React_Native_3_2.png]({{site.baseurl}}/img/React_Native_3_2.png)
+
 运行测试后输出：
 ![React_Native_3_3.png]({{site.baseurl}}/img/React_Native_3_3.png)
 
 接着，开始使用Redux的方式来操作React的state，见[github中的counter.js文件](https://github.com/wesleyxie/lesson1/blob/master/counter.js)
+
 完成后的效果如下：
 ![React_Native_3_4.png]({{site.baseurl}}/img/React_Native_3_4.png)
 ![React_Native_3_5.png]({{site.baseurl}}/img/React_Native_3_5.png)
@@ -70,7 +72,7 @@ const createStore = (reducer) => {
 ~~~
 
 ## 相关链接：
-[课程代码github](https://github.com/wesleyxie/lesson1)
-[webpack tutorials](http://webpack.github.io/docs/tutorials/getting-started/)
-[webpack官方文档](http://webpack.github.io/docs/what-is-webpack.html)
-[Babel官网](http://babeljs.io/)
+[课程代码github](https://github.com/wesleyxie/lesson1)  
+[webpack tutorials](http://webpack.github.io/docs/tutorials/getting-started/)  
+[webpack官方文档](http://webpack.github.io/docs/what-is-webpack.html)  
+[Babel官网](http://babeljs.io/)  
